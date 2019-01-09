@@ -5,3 +5,4 @@ Clone your Libft.
 
 compilation command "gcc -I./libft/includes -o gnl get_next_line.c libft/libft.a"
 
+check with "42FileChecker"
